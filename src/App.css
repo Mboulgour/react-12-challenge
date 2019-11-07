@@ -17,6 +17,11 @@
   flex-grow: 1;
 }
 
+.TabSelector button:hover{
+  cursor: pointer;
+  opacity: .8;
+}
+
 .TabSelector button {
   border-bottom: 2px solid #eee;
 }
